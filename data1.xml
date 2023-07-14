@@ -1,0 +1,9 @@
+<params>
+  <URL>https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY</URL>
+    <excelName>南亞</excelName>
+    <startYear>2020</startYear>
+    <startMonth>1</startMonth>
+    <endYear>2023</endYear>
+    <endMonth>6</endMonth>
+    <StockNo>1303</StockNo>
+</params>
